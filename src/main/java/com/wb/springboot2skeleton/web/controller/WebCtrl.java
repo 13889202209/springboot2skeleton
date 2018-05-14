@@ -6,10 +6,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class WebCtrl {
 
-    @RequestMapping("index")
-    public String hello(){
-        System.out.println("index");
-        return "index";
+    @RequestMapping("birth")
+    public String birth(){
+        System.out.println("birth");
+        return "birth";
     }
 
 
