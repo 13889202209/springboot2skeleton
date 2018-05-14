@@ -3,6 +3,8 @@ spring:
     active: dev
   application:
     name: spring-cloud-eureka
+  thymeleaf:
+    prefix: classpath:/templates/
 
 eureka:
   client:
