@@ -41,7 +41,7 @@ text-align:center;
   bottom: 0px;
   margin:0 auto; 
 font-family: 'hotsweatregular';
-background: -webkit-gradient(linear, left top, right top, from(#FF1177), to(#FF1177), color-stop(0.5, #fff)) 0 0 repeat;
+background: -webkit-gradient(linear, left top, right top, from(#ff0cea), to(#feff17), color-stop(0.5, #fff)) 0 0 repeat;
 -webkit-background-size: 125px;
 
 color: #111111;
